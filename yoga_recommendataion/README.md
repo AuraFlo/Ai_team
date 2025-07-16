@@ -18,6 +18,7 @@ This project is a Streamlit-based GUI app that recommends yoga poses based on da
 bash
 Copy
 Edit
+
 .
 ├── app.py                   # Streamlit GUI
 
@@ -26,6 +27,8 @@ Edit
 ├── yoga_recommendation.db   # SQLite DB (auto-created)
 
 └── README.md
+
+
 
 
 🚀 Setup Instructions
@@ -38,6 +41,8 @@ Raspberry Pi 5 (or any Linux/Windows machine)
 
 sudo apt update
 sudo apt install ffmpeg libsndfile1 portaudio19-dev python3-pyaudio
+
+
 
 
 Microphone (for voice input)
