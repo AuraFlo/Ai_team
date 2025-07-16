@@ -8,3 +8,7 @@ beautifulsoup4==4.12.3
 faster-whisper==0.10.0
 torch==2.3.0
 imageio-ffmpeg==0.4.9
+accelerate==1.8.1
+tokenizers==0.21.2
+torch==2.7.1
+wikipedia==1.4.0
