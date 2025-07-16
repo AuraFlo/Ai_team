@@ -76,3 +76,6 @@ LLM: TinyLLaMA via HuggingFace Transformers
 Voice: faster-whisper Tiny (int8) for Raspberry Pi
 
 LangChain: Used for agent orchestration and tool chaining
+
+# Working Demonstration
+https://drive.google.com/file/d/1YQVVyRA6UvBhUNszeu_RkxbYkgcmAaeX/view?usp=sharing
