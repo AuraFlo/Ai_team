@@ -27,6 +27,12 @@ Edit
 1. 🔌 Hardware Requirements
 Raspberry Pi 5 (or any Linux/Windows machine)
 
+ Tip for Raspberry Pi users: You may need to install system packages first:
+
+sudo apt update
+sudo apt install ffmpeg libsndfile1 portaudio19-dev python3-pyaudio
+
+
 Microphone (for voice input)
 
 2. 📦 Install Dependencies
