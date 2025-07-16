@@ -20,12 +20,19 @@ Copy
 Edit
 .
 ├── app.py                   # Streamlit GUI
+
 ├── yoga_agent.py            # Core logic (LLM, Whisper, DB)
+
 ├── yoga_recommendation.db   # SQLite DB (auto-created)
+
 └── README.md
+
+
 🚀 Setup Instructions
+
 1. 🔌 Hardware Requirements
 Raspberry Pi 5 (or any Linux/Windows machine)
+
 
  Tip for Raspberry Pi users: You may need to install system packages first:
 
