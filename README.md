@@ -1,4 +1,4 @@
-🧘 Adaptive Yoga Recommendation System
+#🧘 Adaptive Yoga Recommendation System
 This project is a Streamlit-based GUI app that recommends yoga poses based on daily journal inputs (typed or spoken) using a locally hosted LLM (TinyLLaMA) and a Whisper voice transcription model. It also tracks user progress and fatigue trends over time.
 
 🔧 Features
