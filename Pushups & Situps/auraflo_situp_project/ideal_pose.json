@@ -1,0 +1,14 @@
+{
+  "angles": {
+    "left_elbow": 160,
+    "right_elbow": 160,
+    "left_knee": 70,
+    "right_knee": 70
+  },
+  "tolerance": {
+    "left_elbow": 20,
+    "right_elbow": 20,
+    "left_knee": 20,
+    "right_knee": 20
+  }
+}
