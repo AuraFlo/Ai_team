@@ -2,7 +2,7 @@
 
 This project detects **Arm Circles Exercise** using [MoveNet](https://tfhub.dev/google/movenet/singlepose/lightning/4), with:
 - Real-time **pose detection & stick figure visualization**
-- **Threshold-based scoring (arm straightness, radius, smoothness)
+- Threshold-based scoring (arm straightness, radius, smoothness)
 - Repetition counting
 - Color-coded feedback
 - Bilingual instructions (English + Hindi)
