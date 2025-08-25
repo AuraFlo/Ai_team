@@ -7,6 +7,16 @@ This project detects **Arm Circles Exercise** using [MoveNet](https://tfhub.dev/
 - Color-coded feedback
 - Bilingual instructions (English + Hindi)
 
+
+Project Structure (Arm Circles)
+config.py → constants and thresholds (model handle, angles, rep logic, COCO keypoints, skeleton pairs).
+utils.py → helper functions (calculate angles, skeleton drawing, Hindi text support).
+movenet.py → MoveNet model loading and inference (keypoint detection + pixel conversion).
+arm_state.py → ArmState class and update logic (tracks reps, scores, rotation).
+arm_circles.py → main script to run (video capture, visualization, integration of all modules).
+requirements.txt → Python dependencies (tensorflow, tensorflow-hub, opencv-python, numpy, pillow).
+
+README.md → setup instructions + how to run the program.
 ## Installation
 
  1. Clone the repo
