@@ -1,4 +1,4 @@
-# 🧘 Yoga Pose Detection – Arm Circles
+# Yoga Pose Detection – Arm Circles
 
 This project detects **Arm Circles Exercise** using [MoveNet](https://tfhub.dev/google/movenet/singlepose/lightning/4), with:
 - Real-time **pose detection & stick figure visualization**
@@ -7,7 +7,7 @@ This project detects **Arm Circles Exercise** using [MoveNet](https://tfhub.dev/
 - Color-coded feedback
 - Bilingual instructions (English + Hindi)
 
-## 🚀 Installation
+## Installation
 
  1. Clone the repo
 ```bash
