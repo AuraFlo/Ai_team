@@ -15,15 +15,15 @@ Project Structure
 - `requirements.txt` → dependencies.
 
 Run
-# Create venv
+Create venv
 python -m venv yoga_env
 yoga_env\Scripts\activate   # (Windows)
 
-# Install dependencies
+Install dependencies
 pip install -r requirements.txt
 
 Press q to quit.
 
 
-# Run
+Run
 python lunges.py
