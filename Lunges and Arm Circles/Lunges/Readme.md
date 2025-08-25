@@ -1,4 +1,4 @@
-Lunge Pose Detector (MoveNet + OpenCV)
+# Lunge Pose Detector (MoveNet + OpenCV)
 
 Features
 - Real-time **pose detection** with MoveNet Thunder.
