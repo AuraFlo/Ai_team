@@ -1,0 +1,8 @@
+MODEL_HANDLE = "https://tfhub.dev/google/movenet/singlepose/lightning/4"
+INPUT_RES = 192
+MIN_CONF = 0.2
+ANGLE_SMOOTH_DEG = 1.0
+FULL_TURN_DEG = 300.0
+ELBOW_STRAIGHT_MIN = 150
+RADIUS_RATIO_MIN = 0.75
+FONT_SIZE = 26
