@@ -1,4 +1,0 @@
-tensorflow==2.20.0
-tensorflow-hub==0.13.0
-opencv-python
-numpy
