@@ -29,3 +29,8 @@ reportlab
 
 Pillow
 tensorflow
+fpdf2
+openai-whisper
+
+SpeechRecognition
+
