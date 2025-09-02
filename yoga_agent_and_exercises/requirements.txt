@@ -1,0 +1,31 @@
+# Core App Dependencies
+streamlit==1.35.0
+pandas==2.2.2
+scikit-learn==1.4.2
+numpy==1.26.4
+matplotlib==3.8.4
+
+# For audio recording (only if using voice input)
+sounddevice==0.4.6
+scipy==1.13.1
+
+# For Whisper.cpp execution (you run via subprocess, not Python package)
+# So these are OS-level requirements for Whisper.cpp to function:
+
+# --- Whisper.cpp dependencies (install manually via apt on Raspberry Pi) ---
+# sudo apt update
+# sudo apt install build-essential cmake libfftw3-dev libopenblas-dev libomp-dev
+
+# Then, clone and build whisper.cpp manually (not in pip)
+# git clone https://github.com/ggerganov/whisper.cpp
+# cd whisper.cpp && make
+
+# Download base model:
+# ./models/download-ggml-model.sh base.en
+numpy
+opencv-python
+tflite-runtime
+reportlab
+
+Pillow
+tensorflow
