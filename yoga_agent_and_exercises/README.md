@@ -39,21 +39,6 @@ This system analyzes the user's journal input—either written or spoken—and c
 
 ---
 
-## 🗂️ Project Folder Structure
-
-Your folder may include:
-
-```
-YogaWise/
-├── app.py
-├── yoga_agent.py
-├── database/
-├── utils/
-├── assets/
-├── requirements.txt
-├── README.md
-```
-
 ---
 
 ## ⚙️ Setup Guide
@@ -127,3 +112,4 @@ This seeds demo users and sessions.
 ## ❤️ Contact
 
 Facing issues running the app? Open an issue on GitHub or reach out!
+
